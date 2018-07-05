@@ -1,6 +1,8 @@
 # heating_complaint
 Repository for final project CUSP-GX-6006.001: Data Visualization
 
+[**Visualization URL**](https://output.jsbin.com/tanuvek/)
+
 **Title**:
 > NYC heating complaint 2010-2017
 
@@ -16,3 +18,5 @@ Repository for final project CUSP-GX-6006.001: Data Visualization
 **Descriptions**:
 > New York City regulation allows their resident to complaint about the heating through 311 calls during the period of 1 October to 31 May each year. This effort aims to ensure the landlord and building management comply the building requirement for their tenants.
 At first, this visualization will give the information about the dynamic of heating complaint in New York City from 2010-2017. Then it will also shows spatial visualization of the complaint for a particular year aggregated by zipcodes. User can check the persistency of heating complaint by choosing on different year. 
+
+
